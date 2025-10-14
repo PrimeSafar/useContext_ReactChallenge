@@ -1,0 +1,20 @@
+// import './App.css'
+// import React from 'react'
+// import Context from './LoanContext'
+// import Form from './Form'
+// import { useState } from 'react'
+// import UseContext from './useContext'
+// function App() {
+//   // const [loanAmount , setLoanAmount] = useState("")
+//   const [userName ] = useState("safar");
+
+
+//   return (
+//     <UseContext.Provider value={userName}>
+//       <div className='bg-amber-600 text-4xl text-white'>
+//       <h1 className='text-2xl text-blue-700'>in app : {userName}</h1>
+//       <Form />
+//       </div>
+//     </UseContext.Provider>
+//   )
+// }
